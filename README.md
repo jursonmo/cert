@@ -1,6 +1,8 @@
 
+```
 cd gen_cert
 go run *.go
+```
 即可一键生成以下所有文件：
 ```
 ca.pem, ca.key
